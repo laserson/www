@@ -1,0 +1,10 @@
+body {
+    margin: 20px;
+    text-align: left;
+    padding: 0;
+    font-family: Scala, Georgia, serif;
+    font-size: 12px;
+    position:relative;
+    border: 0;
+    color: #000;
+}

@@ -1,0 +1,45 @@
+div.nav_bar {
+    border-bottom: 1px solid #999;
+    height: 30px;
+    width: 800px;
+    position: relative;
+}
+
+div.nav_bar a:visited, a:link, a:active, a:hover {
+    color: #999;
+}
+
+
+div.nav_logo {
+    float: left;
+    position: relative;
+    height: 30px;
+    width: 380px;
+}
+
+div.nav_elt {
+    border-left: 0;
+    float: left;
+    height: 15px;
+    width: 80px;
+    line-height: 15px;
+    position: relative;
+    top: 7px;
+}
+
+div.nav_elt a:link {
+    text-decoration: none;
+}
+
+div.nav_elt a:visited {
+    text-decoration: none;
+}
+
+div.nav_elt a:active {
+    text-decoration: none;
+}
+
+div.nav_elt a:hover {
+    text-decoration: none;
+    color: #000;
+}
