@@ -1,0 +1,103 @@
+body {
+    margin: 20px;
+    text-align: left;
+    padding: 0;
+    font-family: 'Petrona', serif;
+    font-size: 12px;
+    position:relative;
+    border: 0;
+    color: #000;
+    width: 1024px;
+}
+
+a:visited, a:link, a:active {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: left;
+}
+
+div.col_left {
+    float: left;
+    width: 500px;
+    margin-right: 12px;
+}
+
+div.col_right {
+    float: right;
+    width: 500px;
+    margin-left: 12px;
+}
+
+
+/* ============== */
+/* = Navigation = */
+/* ============== */
+
+div.nav_bar {
+    border-bottom: 1px solid #999;
+    margin-bottom: 40px;
+    height: 40px;
+    width: 1024px;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+div.nav_bar a:visited {
+    color: #999;
+}
+
+div.nav_bar a:link {
+    color: #999;
+}
+
+div.nav_bar a:active {
+    color: #999;
+}
+
+div.nav_bar a:hover {
+    color: #999;
+}
+
+div.nav_logo {
+    float: left;
+    position: relative;
+    height: 30px;
+    width: 380px;
+}
+
+img#logo {
+    position: relative;
+    top: 7.5px;
+}
+
+div.nav_col {
+    float: right;
+    border-left: 1px dotted #999;
+    padding-left: 10px;
+    height: 40px;
+    width: 157px;
+    line-height: 19px;
+    letter-spacing: 1.5px;
+}
+
+div.nav_col a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+div.nav_col a:hover {
+    text-decoration: none;
+    color: #000;
+}
