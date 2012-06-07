@@ -10,7 +10,7 @@ document.write('        <a href="http://web.mit.edu/laserson/www/coming_soon.htm
 document.write('    </div>');
 document.write('    <div class="nav_col">');
 document.write('        <a href="http://web.mit.edu/laserson/www/coming_soon.html">RESEARCH</a> <br />');
-document.write('        <a href="http://web.mit.edu/laserson/www/docs/LasersonResume-20120307.pdf">CV</a>');
+document.write('        <a href="http://web.mit.edu/laserson/www/docs/LasersonUriResume.pdf">CV</a>');
 document.write('    </div>');
 document.write('    <div class="nav_col">');
 document.write('        <a href="http://web.mit.edu/laserson/www/">HOME</a> <br />');
